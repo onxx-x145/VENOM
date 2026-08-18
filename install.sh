@@ -86,4 +86,4 @@ echo
 # Run install.sh
 cd "$(dirname "$INSTALL_FILE")"
 chmod +x install.sh
-./install.sh
+bash install.sh
