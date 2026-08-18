@@ -1,8 +1,22 @@
 🐍 **VENOM TOOL**
 
+
 «Advanced APK Protection & DEX Obfuscation Toolkit»
 
 VENOM ek Android APK protection toolkit hai jo authorized applications ke code ko protect aur obfuscate karne ke liye design kiya gaya hai.
+
+## ** Termux Install ✒️
+```
+git clone https://github.com/onxx-x145/VENOM.git
+cd VENOM
+chmod +x install.sh
+./install.sh
+```
+## ** Start 👍🏻**
+```
+chmod +x install. sh
+./install.sh
+```
 
 ✨ Features
 
